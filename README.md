@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# JAX Transformer LLM - Minimal Viable Product
+# ProtonArc ⚛
 
-A simple, self-contained decoder-only transformer language model built entirely in JAX and Flax. This MVP includes a random-initialized model, inference script, and training loop placeholder for users to train with their own data.
+A simple, self-contained decoder-only transformer language model built entirely in JAX and Flax.
 
 ## Features
 
@@ -246,6 +245,3 @@ MIT License - Feel free to use for learning and experimentation.
 
 Built for learning and experimentation. Happy training! 🚀
 =======
-# ProtonArc
-A simple, self-contained decoder-only transformer language model built entirely in JAX and Flax.
->>>>>>> cbacba311e3176216c2b2720a2bae87fa909b29a
