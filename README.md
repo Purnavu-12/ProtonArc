@@ -243,6 +243,8 @@ MIT License - Feel free to use for learning and experimentation.
 - **Simple Tokenizer**: Character-level tokenizer is for demo. Use a real BPE/SentencePiece tokenizer for production.
 - **No Pre-trained Weights**: No external model loading; 100% standalone.
 
+
+FREE TO BE TAKEN AND TRAINED BY ANYONE !!
 ---
 
 Built for learning and experimentation. Happy training! 🚀
